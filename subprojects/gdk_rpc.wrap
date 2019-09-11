@@ -1,0 +1,10 @@
+[wrap-file]
+directory = gdk_rpc-62ce2ffec09942fd300fdca0a21dbb0b6ef72d96
+
+source_url = https://github.com/blockstream/gdk_rpc/archive/62ce2ffec09942fd300fdca0a21dbb0b6ef72d96.tar.gz
+source_filename = gdk_rpc-62ce2ffec09942fd300fdca0a21dbb0b6ef72d96.tar.gz
+source_hash = d0f6e84d8b0577bc4f3ee4bac66440bf069b24884828edbe13b34ac67cf4b02f
+
+patch_url = file:./subprojects/gdk_rpc-meson/gdk_rpc-meson-d0f6e84d8b0577bc4f3ee4bac66440bf069b24884828edbe13b34ac67cf4b02f.tar
+patch_filename = gdk_rpc-meson-d0f6e84d8b0577bc4f3ee4bac66440bf069b24884828edbe13b34ac67cf4b02f.tar
+patch_hash = e3d3b833385a3929d1eb7e1af9a12d8038a0f670500e148a02149d02f52fd5e6
